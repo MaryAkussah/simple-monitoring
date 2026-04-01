@@ -19,6 +19,8 @@ This project automates a basic Netdata setup on a Linux host and covers the proj
 - `netdata/custom_load.conf`: collector settings used by the custom chart
 - `netdata/custom_cpu_alert.conf`: custom health alarm for sustained CPU usage above 80%
 
+- Project Url :https://roadmap.sh/projects/simple-monitoring-dashboard
+
 ## Quick Start
 
 Run these commands on a Linux machine:
